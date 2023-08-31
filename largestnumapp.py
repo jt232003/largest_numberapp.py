@@ -1,4 +1,4 @@
-import stream as st
+import streamlit as st
 
 def find_largest(a,b,c):
   return max(a,b,c)
