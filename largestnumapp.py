@@ -5,7 +5,7 @@ def find_largest(a,b,c):
   
 
 def main():
-  st.title("Find the largest Number)
+  st.title("Find the largest Number")
            
   st.write("Enter 3 numbers")
   a = st.number_input("Enter the first number:")
